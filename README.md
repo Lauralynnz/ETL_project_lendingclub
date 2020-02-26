@@ -12,7 +12,7 @@ I downloaded 12 csv files from the Lending Club website to compile 3 years of da
 
 Here is the following source for my datasets:
 
-https://www.lendingclub.com/statistics/additional-statistics?
+https://www.lendingclub.com/statistics/additional-statistics
 
 Transform:
 
